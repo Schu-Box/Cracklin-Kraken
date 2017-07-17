@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GMTK Jam.data.unityweb",
+"asmCodeUrl": "GMTK Jam.asm.code.unityweb",
+"asmMemoryUrl": "GMTK Jam.asm.memory.unityweb",
+"asmFrameworkUrl": "GMTK Jam.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
